@@ -1,0 +1,33 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Damien"
+    },
+    {
+      "id": 2,
+      "name": "Lucius"
+    },
+    {
+      "id": 2,
+      "name": "Jasper"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": 1653405037731,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Leaky faucets",
+      "address": "1012 Diagon Alley",
+      "budget": "1000",
+      "neededBy": "2000-07-17",
+      "id": 1
+    }
+  ]
+}
